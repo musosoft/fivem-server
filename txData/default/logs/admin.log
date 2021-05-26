@@ -1,0 +1,29 @@
+
+================================================================
+======== txAdmin starting - 5/26/2021, 10:29:30 PM
+================================================================
+[22:31:03][127.0.0.1][PooH_ChAnNEL] Changing global settings via setup stepper and started Deployer.
+[22:32:05][127.0.0.1][PooH_ChAnNEL] Setting recipe.
+[23:58:04][127.0.0.1][PooH_ChAnNEL] Running recipe.
+[00:06:36][127.0.0.1][PooH_ChAnNEL] Changing global settings via setup stepper and started Deployer.
+[00:06:56][127.0.0.1][PooH_ChAnNEL] Setting recipe.
+[00:08:20][127.0.0.1][PooH_ChAnNEL] Running recipe.
+[00:10:21][127.0.0.1][PooH_ChAnNEL] Configured server.cfg from deployer.
+[00:10:21][127.0.0.1][PooH_ChAnNEL] Completed and committed server deploy.
+[00:14:27][127.0.0.1][PooH_ChAnNEL] sv_lan
+[00:14:31][127.0.0.1][PooH_ChAnNEL] sv_lan 1
+[00:14:32][127.0.0.1][PooH_ChAnNEL] sv_lan
+[00:17:46][127.0.0.1][PooH_ChAnNEL] RESTART SERVER
+[00:18:48][MONITOR] Restarting server (server failed to start within 300 seconds).
+[00:19:41][127.0.0.1][PooH_ChAnNEL] RESTART SERVER
+[00:26:32][127.0.0.1][PooH_ChAnNEL] quit
+[00:26:37][127.0.0.1][PooH_ChAnNEL] exit
+[00:26:40][127.0.0.1][PooH_ChAnNEL] sv_lan
+[00:26:47][MONITOR] Restarting server (server close detected).
+
+================================================================
+======== txAdmin starting - 5/27/2021, 12:27:39 AM
+================================================================
+[00:28:14][127.0.0.1][PooH_ChAnNEL] sv_lan 1
+[00:28:18][127.0.0.1][PooH_ChAnNEL] sv_lan
+[00:32:15][127.0.0.1][PooH_ChAnNEL] sv_lan

@@ -1,0 +1,21 @@
+[
+  {
+    "name": "PooH_ChAnNEL",
+    "master": true,
+    "password_hash": "$2a$11$DxFnVn7NTUrn21pD0EBbi.m7Y8cCIWA8vpsRSYCGfIKRcjc0RYWQi",
+    "providers": {
+      "citizenfx": {
+        "id": "PooH_ChAnNEL",
+        "identifier": "fivem:2256497",
+        "data": {
+          "nameid": "https://forum.cfx.re/internal/user/2256497",
+          "name": "PooH_ChAnNEL",
+          "profile": "https://forum.cfx.re/u/PooH_ChAnNEL",
+          "picture": "https://forum.cfx.re/user_avatar/forum.cfx.re/pooh_channel/256/1224428_2.png",
+          "sub": "6ce567ed25337e030663cd3aa64e5da1e638cb62307a71aaf14abd878b95913d"
+        }
+      }
+    },
+    "permissions": []
+  }
+]

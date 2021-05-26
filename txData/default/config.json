@@ -1,0 +1,40 @@
+{
+  "global": {
+    "serverName": "Sorry _ Roleplay",
+    "language": "en"
+  },
+  "logger": {},
+  "monitor": {
+    "restarterSchedule": [],
+    "restarterScheduleWarnings": [
+      30,
+      15,
+      10,
+      5,
+      4,
+      3,
+      2,
+      1
+    ]
+  },
+  "statsCollector": {},
+  "playerController": {
+    "onJoinCheckBan": true,
+    "onJoinCheckWhitelist": false,
+    "minSessionTime": 15,
+    "whitelistRejectionMessage": "You are not yet whitelisted in this server.\nPlease join http://discord.gg/example.\nYour Request ID: <id>",
+    "wipePendingWLOnStart": true
+  },
+  "authenticator": {},
+  "webServer": {},
+  "discordBot": {
+    "enabled": false,
+    "prefix": "/",
+    "statusMessage": "**IP:** `change-me:<port>`\n**Players:** <players>\n**Uptime:** <uptime>"
+  },
+  "fxRunner": {
+    "autostart": true,
+    "serverDataPath": "C:/Users/PooM/Documents/FiveM/txData/PlumeESX_AE8014.base/",
+    "cfgPath": "C:/Users/PooM/Documents/FiveM/txData/PlumeESX_AE8014.base/server.cfg"
+  }
+}

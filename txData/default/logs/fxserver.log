@@ -1,0 +1,123 @@
+
+================================================================
+======== FXServer starting - 5/27/2021, 12:27:43 AM
+================================================================
+[38;5;161m[    c-scripting-core] Creating script environments for _cfx_internal
+[38;5;73m[ citizen-server-impl] Scanning resources.
+[38;5;73m[ citizen-server-impl] Found 70 resources.
+[38;5;161m[    c-scripting-core] Creating script environments for sessionmanager
+[38;5;73m[ citizen-server-impl] Started resource sessionmanager
+[38;5;161m[    c-scripting-core] Creating script environments for monitor
+[38;5;84m[      script:monitor] [txAdminClient] Version 3.7.0 starting...
+[38;5;73m[ citizen-server-impl] Started resource monitor
+[38;5;78m[              cmdsys] No such command sv_licenseKey.
+[38;5;161m[    c-scripting-core] Creating script environments for mapmanager
+[38;5;73m[ citizen-server-impl] Started resource mapmanager
+[38;5;161m[    c-scripting-core] Creating script environments for yarn
+[38;5;73m[ citizen-server-impl] Started resource yarn
+[38;5;161m[    c-scripting-core] Creating script environments for webpack
+[38;5;73m[ citizen-server-impl] Started resource webpack
+[38;5;161m[    c-scripting-core] Creating script environments for chat
+[38;5;73m[ citizen-server-impl] Started resource chat
+[38;5;73m[ citizen-server-impl] Started resource spawnmanager
+[38;5;161m[    c-scripting-core] Creating script environments for hardcap
+[38;5;73m[ citizen-server-impl] Started resource hardcap
+[38;5;154m[   script:mapmanager] Started gametype Freeroam
+[38;5;73m[ citizen-server-impl] Started resource basic-gamemode
+[38;5;154m[   script:mapmanager] Started map default_spawnpoint
+[38;5;73m[ citizen-server-impl] Started resource default_spawnpoint
+[38;5;161m[    c-scripting-core] Creating script environments for mysql-async
+[38;5;73m[ citizen-server-impl] Started resource mysql-async
+[38;5;161m[    c-scripting-core] Creating script environments for cron
+[38;5;73m[ citizen-server-impl] Started resource cron
+[38;5;161m[    c-scripting-core] Creating script environments for instance
+[38;5;73m[ citizen-server-impl] Started resource instance
+[38;5;73m[ citizen-server-impl] Started resource skinchanger
+[38;5;161m[    c-scripting-core] Creating script environments for async
+[38;5;73m[ citizen-server-impl] Started resource async
+[38;5;161m[    c-scripting-core] Creating script environments for es_extended
+[38;5;73m[ citizen-server-impl] Started resource es_extended
+[38;5;73m[ citizen-server-impl] Started resource esx_menu_default
+[38;5;73m[ citizen-server-impl] Started resource esx_menu_dialog
+[38;5;73m[ citizen-server-impl] Started resource esx_menu_list
+[38;5;161m[    c-scripting-core] Creating script environments for esx_datastore
+[38;5;73m[ citizen-server-impl] Started resource esx_datastore
+[38;5;161m[    c-scripting-core] Creating script environments for esx_identity
+[38;5;73m[ citizen-server-impl] Started resource esx_identity
+[38;5;161m[    c-scripting-core] Creating script environments for esx_skin
+[38;5;73m[ citizen-server-impl] Started resource esx_skin
+[38;5;161m[    c-scripting-core] Creating script environments for esx_status
+[38;5;73m[ citizen-server-impl] Started resource esx_status
+[38;5;161m[    c-scripting-core] Creating script environments for esx_basicneeds
+[38;5;73m[ citizen-server-impl] Started resource esx_basicneeds
+[38;5;161m[    c-scripting-core] Creating script environments for esx_billing
+[38;5;73m[ citizen-server-impl] Started resource esx_billing
+[38;5;161m[    c-scripting-core] Creating script environments for esx_addoninventory
+[38;5;73m[ citizen-server-impl] Started resource esx_addoninventory
+[38;5;161m[    c-scripting-core] Creating script environments for esx_addonaccount
+[38;5;73m[ citizen-server-impl] Started resource esx_addonaccount
+[38;5;161m[    c-scripting-core] Creating script environments for esx_society
+[38;5;73m[ citizen-server-impl] Started resource esx_society
+[38;5;161m[    c-scripting-core] Creating script environments for esx_license
+[38;5;73m[ citizen-server-impl] Started resource esx_license
+[38;5;161m[    c-scripting-core] Creating script environments for esx_service
+[38;5;73m[ citizen-server-impl] Started resource esx_service
+[38;5;161m[    c-scripting-core] Creating script environments for esx_garage
+[38;5;73m[ citizen-server-impl] Started resource esx_garage
+[38;5;161m[    c-scripting-core] Creating script environments for esx_vehicleshop
+[38;5;73m[ citizen-server-impl] Started resource esx_vehicleshop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_jobs
+[38;5;73m[ citizen-server-impl] Started resource esx_jobs
+[38;5;161m[    c-scripting-core] Creating script environments for esx_joblisting
+[38;5;73m[ citizen-server-impl] Started resource esx_joblisting
+[38;5;161m[    c-scripting-core] Creating script environments for esx_policejob
+[38;5;73m[ citizen-server-impl] Started resource esx_policejob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_ambulancejob
+[38;5;73m[ citizen-server-impl] Started resource esx_ambulancejob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_mechanicjob
+[38;5;73m[ citizen-server-impl] Started resource esx_mechanicjob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_taxijob
+[38;5;73m[ citizen-server-impl] Started resource esx_taxijob
+[38;5;161m[    c-scripting-core] Creating script environments for esx_lscustom
+[38;5;73m[ citizen-server-impl] Started resource esx_lscustom
+[38;5;161m[    c-scripting-core] Creating script environments for esx_atm
+[38;5;73m[ citizen-server-impl] Started resource esx_atm
+[38;5;161m[    c-scripting-core] Creating script environments for esx_shops
+[38;5;73m[ citizen-server-impl] Started resource esx_shops
+[38;5;161m[    c-scripting-core] Creating script environments for esx_weaponshop
+[38;5;73m[ citizen-server-impl] Started resource esx_weaponshop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_clotheshop
+[38;5;73m[ citizen-server-impl] Started resource esx_clotheshop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_barbershop
+[38;5;73m[ citizen-server-impl] Started resource esx_barbershop
+[38;5;161m[    c-scripting-core] Creating script environments for esx_drugs
+[38;5;73m[ citizen-server-impl] Started resource esx_drugs
+[38;5;161m[    c-scripting-core] Creating script environments for esx_holdup
+[38;5;73m[ citizen-server-impl] Started resource esx_holdup
+[38;5;73m[ citizen-server-impl] Started resource bob74_ipl
+[38;5;161m[    c-scripting-core] Creating script environments for esx_adminplus
+[38;5;73m[ citizen-server-impl] Started resource esx_adminplus
+[38;5;161m[    c-scripting-core] Creating script environments for gcphone
+[38;5;73m[ citizen-server-impl] Started resource gcphone
+[38;5;161m[    c-scripting-core] Creating script environments for Kl_HudV2
+[38;5;73m[ citizen-server-impl] Started resource Kl_HudV2
+[38;5;73m[ citizen-server-impl] Started resource loadingscreen
+[38;5;73m[ citizen-server-impl] Started resource simpledrift
+[38;5;161m[    c-scripting-core] Creating script environments for EasyAdmin
+[38;5;73m[ citizen-server-impl] Started resource EasyAdmin
+[38;5;159m[  script:mysql-async] [mysql-async] [SUCCESS] Database server connection established.
+[38;5;128m[    script:EasyAdmin] 
+[38;5;128m[    script:EasyAdmin]  _______ _______ _______ __   __ _______ ______  _______ _____ __   _
+[38;5;128m[    script:EasyAdmin]  |______ |_____| |______   \_/   |_____| |     \ |  |  |   |   | \  |
+[38;5;128m[    script:EasyAdmin]  |______ |     | ______|    |    |     | |_____/ |  |  | __|__ |  \_|
+[38;5;128m[    script:EasyAdmin]                            Version 5.901
+[38;5;84m[      script:monitor] [txAdminClient] Threads and commands set up. All Ready.
+[38;5;220m[  script:es_extended] [es_extended] [INFO] ESX developed by ESX-Org has been initialized
+[38;5;128m[    script:EasyAdmin] 
+[38;5;128m[    script:EasyAdmin] EasyAdmin: screenshot-basic is not installed on this Server, screenshots unavailable
+[38;5;171m[                 cmd]  "sv_lan" is "true"
+[38;5;171m[                 cmd]  default: "false"
+[38;5;171m[                 cmd]  type: bool
+[38;5;73m[ citizen-server-impl] sync thread hitch warning: timer interval of 125 milliseconds
+[38;5;134m[      script:hardcap] Connecting: PooM
+[38;5;143m[  citizen-server-gui] You can reopen the server GUI using the command svgui.
