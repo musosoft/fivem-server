@@ -1,2 +1,6 @@
-*.log
-txData/default/data/stats_heatmapData_v1.json
+artifact/server-tls.key
+artifact/server-tls.crt
+txData/default/data/
+txData/default/logs/
+txData/default/logs/fxserver.log
+txData/PlumeESX_AE8014.base/db/default/
