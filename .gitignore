@@ -4,3 +4,9 @@ txData/default/data/
 txData/default/logs/
 txData/default/logs/fxserver.log
 txData/PlumeESX_AE8014.base/db/default/
+artifact/components.json
+artifact/server-tls.crt
+artifact/server-tls.key
+txData/default/data/stats_heatmapData_v1.json
+txData/default/logs/admin.log
+txData/default/logs/fxserver.log
